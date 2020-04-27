@@ -6,7 +6,7 @@ import Conversor from './components/Conversor'
 function App() {
 	return (
 		<div className="App">
-			<Conversor moedaA="USB" moedaB="BRL"></Conversor>
+			<Conversor moedaA="USD" moedaB="BRL"></Conversor>
 		</div>
 	);
 }
