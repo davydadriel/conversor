@@ -1,6 +1,6 @@
 //import liraries
 import React, { Component } from 'react';
-
+import './Conversor.css';
 // create a component
 class Conversor extends Component {
 
